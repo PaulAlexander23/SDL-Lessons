@@ -1,5 +1,5 @@
 #include <iostream>
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 /*
  * Lesson 0: Test to make sure SDL is setup properly
@@ -10,5 +10,10 @@ int main(int, char**){
         return 1;
     }
     SDL_Quit();
+    
+    int a;
+
+    std::cin>>a;
+
     return 0;
 }

@@ -24,3 +24,4 @@ include_directories(${SDL2_INCLUDE_DIR})
 include_directories(include)
 
 add_subdirectory(Lesson0)
+add_subdirectory(Lesson1)
