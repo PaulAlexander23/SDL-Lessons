@@ -25,3 +25,4 @@ include_directories(include)
 
 add_subdirectory(Lesson0)
 add_subdirectory(Lesson1)
+add_subdirectory(multiple_main_test)
